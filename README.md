@@ -1,23 +1,10 @@
 # AI/ML/DL/NN Books
 Books related to  Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks
 
-Book R in Action - Data analysis and graphics with R 474 Pages 2011
-https://github.com/aridiosilva/AI_Books/blob/master/Book%20%20R%20in%20Action%20-%20Data%20analysis%20and%20graphics%20with%20R%20474%20Pages%202011.pdf
-
-
-Book - Deep Learning - MIT PRESS - Book Online 2019
-https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Deep%20Learning%20-%20MIT%20PRESS%20-%20Book%20Online%202019.pdf
-
-
-Book - Math for AI - Basics of Linear Algebra for Machine Learning (Examples in Python Code) 212 Pages · 2017
-https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Math%20for%20AI%20-%20Basics%20of%20Linear%20Algebra%20for%20Machine%20Learning%20(Examples%20in%20Python%20Code)%20212%20Pages%20%C2%B7%202017%20%20(GOOD).pdf
-
-
-Book - Neural Networks and Deep Learning - Michael Nielsen - 281 pages Oct 2018
-https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%20Michael%20Nielsen%20-%20281%20pages%20Oct%202018%20.pdf
-
-
-
+- [Book R in Action - Data analysis and graphics with R 474 Pages 2011](https://github.com/aridiosilva/AI_Books/blob/master/Book%20%20R%20in%20Action%20-%20Data%20analysis%20and%20graphics%20with%20R%20474%20Pages%202011.pdf)
+- [Book - Deep Learning - MIT PRESS - Book Online 2019](https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Deep%20Learning%20-%20MIT%20PRESS%20-%20Book%20Online%202019.pdf)
+- [Book - Math for AI - Basics of Linear Algebra for Machine Learning (Examples in Python Code) 212 Pages · 2017](https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Math%20for%20AI%20-%20Basics%20of%20Linear%20Algebra%20for%20Machine%20Learning%20(Examples%20in%20Python%20Code)%20212%20Pages%20%C2%B7%202017%20%20(GOOD).pdf)
+- [Book - Neural Networks and Deep Learning - Michael Nielsen - 281 pages Oct 2018](https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%20Michael%20Nielsen%20-%20281%20pages%20Oct%202018%20.pdf)
 - [Book - TensorFlow - Getting Started With TensorFlow 178 Pages](https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20TensorFlow%20-%20Getting%20Started%20With%20TensorFlow%20178%20Pages%20%C2%B7%202016.pdf)
 - [Book Advanced Data Analytics Using Python - With Machine Learning, Deep Learning and NLP Examples 195 Pages 2018](https://github.com/aridiosilva/AI_Books/blob/master/Book%20Advanced%20Data%20Analytics%20Using%20Python%20-%20With%20Machine%20Learning%2C%20Deep%20Learning%20and%20NLP%20Examples%20195%20Pages%202018.pdf)
 - [Book Artificial Intelligence A Modern Approach (3rd Edition) 1154 Pages 2010](https://github.com/aridiosilva/AI_Books/blob/master/Book%20Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition)%201154%20Pages%202010.pdf)
