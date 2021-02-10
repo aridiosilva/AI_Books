@@ -68,3 +68,9 @@ In this video, Cholesky factorization method (after André-Louis Cholesky) is ex
 
 - [Part 1](https://www.youtube.com/watch?v=4SWMzENcgSE)
 - [Part 2](https://www.youtube.com/watch?v=qNKyw5ED7eM)
+
+## Gauss-Jordan Method Tutorial - Step-By-Step Theory & Coding
+
+In this tutorial, the procedure of Gauss-Jordan elimination method is explained step-by-step using symbolic and numeric examples. The general formulas and Gauss-Jordan algorithm are applied to write a Python code to solve the numeric example.
+
+- [Part 1](https://www.youtube.com/watch?v=xOLJMKGNivU)
