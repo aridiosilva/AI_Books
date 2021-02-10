@@ -75,8 +75,7 @@ In this tutorial, the procedure of Gauss-Jordan elimination method is explained 
 
 - [Part 1](https://www.youtube.com/watch?v=xOLJMKGNivU)
 
-## Lagrange Interpolation Method: Algorithm, Computation and Plot - Numerical Computing with Python
-
+## Lagrange Interpolation Method: Algorithm, Computation and Plot
 Lagrange interpolation (or Lagrangian interpolation) method is one of the most basic and common methods to apply the interpolation polynomials. It was named after the great mathematician Joseph-Louis Lagrange (1736-1813). This tutorial explains the Lagrangian polynomial form of the interpolation function, the algorithm of the method and the Python code by using Python lists with basic for loops and by using the Numpy arrays by using conditional slicing in addition to plotting the interpolation function versus the given data points by using matplotlib.pyplot module.
 
 - [Part 1](https://www.youtube.com/watch?v=dTGqOj1NZwY)
