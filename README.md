@@ -57,6 +57,6 @@ Books related to  Artificial Intelligence, Machine Learning, Deep Learning and N
 
 ### Gauss Elimination Method with Pivoting -  Numerical Computing with Python
 
-- ![Part 1](https://www.youtube.com/watch?v=ZDxONtacA_4)
-- ![Part 2](https://www.youtube.com/watch?v=i7f9PBe-j_Y)
+- [Part 1](https://www.youtube.com/watch?v=ZDxONtacA_4)
+- [Part 2](https://www.youtube.com/watch?v=i7f9PBe-j_Y)
 
