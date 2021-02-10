@@ -80,3 +80,17 @@ Lagrange interpolation (or Lagrangian interpolation) method is one of the most b
 
 - [Part 1](https://www.youtube.com/watch?v=dTGqOj1NZwY)
 
+## Binomial Distributions - Probabilities of Probabilities
+
+The binomial distribution consists of the probabilities of each of the possible numbers of successes on N trials for independent events that each have a probability of π (the Greek letter pi) of occurring. For the coin flip example, N = 2 and π = 0.5.
+
+- [Part 1](https://www.youtube.com/watch?v=8idr1WZ1A7Q)
+- [Part 2](https://www.youtube.com/watch?v=ZA4JkHKZM50&t=0s)
+
+## Normal Distribution & Probability Problems
+
+This calculus video tutorial provides a basic introduction into normal distribution and probability.  It explains how to solve normal distribution problems using a simple chart and using calculus by evaluating the definite integral of the probability density function for a bell shaped curve or normal distribution curve.  This video contains 1 practice problem in the form of a word problem with many parts giving you plenty of examples to master this topic.  In this video, I explain how to evaluate the definite integral using wolfram's alpha online calculator for definite integrals.  You need to determine the population mean mu and standard deviation sigma as well as the lower and upper limits of integration in order to determine the probability of an event occurring within a certain range of X values where X is a continuous random variable.  You need to be familiar with the 68-95-99.7 rule.  Approximately 68% of the population lies within 1 standard deviation of the population mean or average.  95% of the population lies within 2 standard deviations of the mean and 99.7% lies within 3 standard deviations of the mean.
+
+- [Part 1](https://www.youtube.com/watch?v=gHBL5Zau3NE)
+
+
