@@ -53,3 +53,10 @@ Books related to  Artificial Intelligence, Machine Learning, Deep Learning and N
 - [Book MATLAB Deep Learning - With Machine Learning, Neural Networks and Artificial Intelligence 162 Pages 2017](https://github.com/aridiosilva/AI_Books/blob/master/Book%20MATLAB%20Deep%20Learning%20-%20With%20Machine%20Learning%2C%20Neural%20Networks%20and%20Artificial%20Intelligence%20162%20Pages%202017.pdf)
 
 
+## Algorithms Tutorials
+
+### Gauss Elimination Method with Pivoting -  Numerical Computing with Python
+
+- ![Part 1](https://www.youtube.com/watch?v=ZDxONtacA_4)
+- ![Part 2](https://www.youtube.com/watch?v=i7f9PBe-j_Y)
+
