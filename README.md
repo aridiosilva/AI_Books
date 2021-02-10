@@ -67,4 +67,4 @@ In this tutorial, the basic steps of Gauss Elimination (or Gaussian Elimination)
 In this video, Cholesky factorization method (after André-Louis Cholesky) is explained with examples. The tutorial includes the definitions of the LU-decomposition and Cholesky decomposition, the conditions of Cholesky decomposition, the use of Numpy eigenvalue functions to test the positive definiteness, the derivation of Cholesky algorithm and Coding in Python.
 
 - [Part 1](https://www.youtube.com/watch?v=4SWMzENcgSE)
-- [Part 2](https://www.youtube.com/watch?v=i7f9PBe-j_Y)
+- [Part 2](https://www.youtube.com/watch?v=qNKyw5ED7eM)
