@@ -57,6 +57,8 @@ Books related to  Artificial Intelligence, Machine Learning, Deep Learning and N
 
 ### Gauss Elimination Method with Pivoting -  Numerical Computing with Python
 
+In this tutorial, the basic steps of Gauss Elimination (or Gaussian Elimination) method to solve  a system of linear equations are explained in details with examples, algorithms and Python codes. Gauss elimination (after Carl Friedrich Gauss, 1777-1855) is a the basis of all other elimination methods applied to solve systems of linear equations.
+
 - [Part 1](https://www.youtube.com/watch?v=ZDxONtacA_4)
 - [Part 2](https://www.youtube.com/watch?v=i7f9PBe-j_Y)
 
