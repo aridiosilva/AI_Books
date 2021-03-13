@@ -1,6 +1,14 @@
 # Artifical Intelligence & Machine Learning & Deep Learning & Neural Networks Books
 Books related to  Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks
 
+## Online Books about AI and Deep Learning
+
+- [link to ONLINE Book about Neural Networks and Deep Learning by MIchael Nielsen](http://neuralnetworksanddeeplearning.com/)
+- [link to ONLINE BOOK about DEEP LEARNING of MIT PRESS BOOK](https://www.deeplearningbook.org/)
+- [link to Tools to Help Tensorflow Development](https://www.tensorflow.org/resources/tools)
+- [link to PAIR code - Code repositories from People+AI Research PAIR Initiative](https://github.com/PAIR-code)
+- [link to Tolls & Platoforms + PAIR](https://pair.withgoogle.com/tools/)
+
 ## Math For AI and AI
 
 - [Book - Math for AI - Basics of Linear Algebra for Machine Learning (Examples in Python Code) 212 Pages · 2017](https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Math%20for%20AI%20-%20Basics%20of%20Linear%20Algebra%20for%20Machine%20Learning%20(Examples%20in%20Python%20Code)%20212%20Pages%20%C2%B7%202017%20%20(GOOD).pdf)
