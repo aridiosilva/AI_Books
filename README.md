@@ -50,7 +50,7 @@ Books related to  Artificial Intelligence, Machine Learning, Deep Learning and N
 - [Book Advanced Data Analytics Using Python - With Machine Learning, Deep Learning and NLP Examples 195 Pages 2018](https://github.com/aridiosilva/AI_Books/blob/master/Book%20Advanced%20Data%20Analytics%20Using%20Python%20-%20With%20Machine%20Learning%2C%20Deep%20Learning%20and%20NLP%20Examples%20195%20Pages%202018.pdf)
 - [Book Practical Data Science with R 417 Pages 2014](https://github.com/aridiosilva/AI_Books/blob/master/Book%20Practical%20Data%20Science%20with%20R%20417%20Pages%202014.pdf)
 
-#3 R and Data Science
+## R and Data Science
 
 - [Book R in Action - Data analysis and graphics with R 474 Pages 2011](https://github.com/aridiosilva/AI_Books/blob/master/Book%20%20R%20in%20Action%20-%20Data%20analysis%20and%20graphics%20with%20R%20474%20Pages%202011.pdf)
 - [Book Learn R for Applied Statistics - With Data Visualizations, Regressions, and Statistics 254 Pages 2019](https://github.com/aridiosilva/AI_Books/blob/master/Book%20Learn%20R%20for%20Applied%20Statistics%20-%20With%20Data%20Visualizations%2C%20Regressions%2C%20and%20Statistics%20254%20Pages%202019.pdf)
